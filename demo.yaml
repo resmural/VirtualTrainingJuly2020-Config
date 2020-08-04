@@ -3,4 +3,4 @@ datasource.username: sa
 datasource.password:
 datasource.driver: org.h2.Driver
 
-defaultgreeting: "Welcome to IBM MS BOOTCAMP"
+defaultgreeting: "Welcome to IBM MS BOOTCAMP"  
